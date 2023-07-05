@@ -2,9 +2,6 @@
 <p>Api desenvolvida com Spring boot</p>
 
 <br/>
-<p float="left">
- <img src="https://github.com/DeivisonMaster/basic-auth/docs/basic.jpg" width="200" />
-</p>
 
 ![Screenshot](docs/basic.jpg)
 
